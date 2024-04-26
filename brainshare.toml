@@ -1,0 +1,4 @@
+[brainshare.tool]
+runtime = "react"
+runtime_version = "1"
+entry = "src/index.tsx"
